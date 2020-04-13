@@ -4,6 +4,8 @@
 # Released under GNU AGPL by Someguy123
 #
 
+# 2020-04-13 happyberrysboy, someguy123이 hive 용으로 이동해서 여기를 따로 branch로 떼어내서 관리
+
 
 # Error handling function for ShellCore
 _sc_fail() { >&2 echo "Failed to load or install Privex ShellCore..." && exit 1; }
